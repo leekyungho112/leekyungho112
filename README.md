@@ -14,7 +14,7 @@ ___
   #### Project
  |Front-end|Back-end|Mobile|
  |:--:|:--:|:--:|
- |InstarClone|InstarClone|InstarClone|
+ |InstagramClone|InstagramClone|InstagramClone|
   |mohoworks|X|X|
    |covidStatus|X|X|
    |YoutubeClone|YoutubeClone|X|
