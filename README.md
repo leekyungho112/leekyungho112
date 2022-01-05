@@ -9,7 +9,7 @@ console.log("hello world!! 😄");
  ###### frontend 와 backend의 level-up을 통해 full-stack Developer가 최종목표입니다.
 ___
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekyungho112&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekyungho112&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leekyungho112&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
