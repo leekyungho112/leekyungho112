@@ -6,8 +6,9 @@ console.log("hello world!! 😄");
  
  ###### frontend 와 backend의 level-up을 통해 full-stack Developer가 최종목표입니다.
 ___
+<div align="center" >
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekyungho112)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 ---
 
  #### skills
