@@ -28,3 +28,4 @@ ___
    |movie&books&tv|movie&books&tv|X|
    |Portfolio|X|X|
    |recipe-app|X|X|
+   |x|x|exercise-timer|
