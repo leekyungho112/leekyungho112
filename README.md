@@ -21,10 +21,9 @@ ___
   #### Project
  |Front-end|Back-end|Mobile|
  |:--:|:--:|:--:|
- |InstagramClone|InstagramClone|InstagramClone|
+ 
   |mohoworks|X|X|
    |covidStatus|X|X|
-   |YoutubeClone|YoutubeClone|X|
    |movie&books&tv|movie&books&tv|X|
    |Portfolio|X|X|
    |recipe-app|X|X|
