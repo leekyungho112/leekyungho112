@@ -21,10 +21,9 @@ ___
   #### Project
  |Front-end|Back-end|Mobile|
  |:--:|:--:|:--:|
- 
-  |mohoworks|X|X|
-   |covidStatus|X|X|
-   |movie&books&tv|movie&books&tv|X|
-   |Portfolio|X|X|
-   |recipe-app|X|X|
-   |x|x|exercise-timer|
+ |mohoworks|X|X|
+ |covidStatus|X|X|
+ |movie&books&tv|movie&books&tv|X|
+ |Portfolio|X|X|
+ |recipe-app|X|X|
+ |x|x|exercise-timer|
